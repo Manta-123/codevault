@@ -1,0 +1,14 @@
+{
+  "workbench.startupEditor": "none",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "workbench.panel.defaultLocation": "right",
+  "workbench.panel.opensMaximized": "preserve",
+  "workbench.sideBar.location": "left",
+  "editor.minimap.enabled": false,
+  "workbench.editor.showTabs": "multiple",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 2000,
+  "workbench.layout.saveOnClose": true,
+  "workbench.layout.restoreOnStartup": true,
+  "workbench.panel.opensMaximized": "never"
+}
